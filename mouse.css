@@ -1,0 +1,73 @@
+.navbar{
+        
+        position: sticky;
+        top: 0;
+        z-index: 9999;
+}
+
+body{
+    background-color: #212121
+}
+
+#home{
+    border-radius: 1%;
+    width: 2000px;
+}
+#services{
+    border-radius: 100%;
+    width: 1500px;
+}
+#portfolio{
+    border-radius: 1%;
+    width: 1500px;
+}
+#testimonials{
+    border-radius: 1%;
+    width: 1500px;
+}
+
+.card{
+    position: sticky;
+    top: 200px;
+}
+
+.green-text{
+    color: #55e6a5;
+}
+
+.arbitrarily-sized-text{
+    font-size: 20px;
+    font-weight:100;
+    font-family: "Sora", sans-serif;
+    line-height: 40px;
+}
+
+.skills{
+    border-bottom: solid rgb(121, 121, 121) 1px;
+}
+
+.item{
+    border: 1px solid rgb(121, 121, 121);
+    border-radius: 5%;
+    padding: 20px;
+    margin-bottom: 10px;
+    width: 250px;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.itemb {
+    border: 1px solid rgb(121, 121, 121);
+    border-radius: 5%;
+    padding: 20px;
+    margin-bottom: 10px;
+    height: 500px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+    font-size: 30px;
+}
+
