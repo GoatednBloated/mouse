@@ -1,0 +1,40 @@
+{
+  "folders": [
+	{
+		"path": "../../../Desktop/mainFolder/cssPractice"
+	},
+	{
+		"path": "../../../Desktop/mainFolder/javascriptPractice"
+	},
+	{
+		"path": "../../../Desktop/mainFolder/javascriptProjects"
+	},
+	{
+		"path": "../../../Desktop/media queries"
+	},
+	{
+		"path": "../../../Desktop/mainFolder/rewardProjects"
+	},
+	{
+		"path": "../../../Desktop/mainFolder/cookie clicker"
+	},
+	{
+		"path": "../../../Desktop/jquery"
+	},
+	{
+		"path": "../../../Desktop/boot"
+	},
+	{
+		"path": "../javascriptProjects/towers"
+	},
+	{
+		"path": "../javascriptProjects"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "mouse"
+  }
+}
